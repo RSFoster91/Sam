@@ -133,6 +133,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/rsfoster91/"
+    - label: "Paypal Me"
+      icon: "fab fa-fw fa-paypal"
+      url: "https://www.paypal.com/paypalme/rsfoster91"
 
 # Site Footer
 footer:
