@@ -89,10 +89,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -114,31 +112,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "R. Samuel Foster"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
+  location         : "Saint Johns, Florida"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
+      url: "r.samuel.foster@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-square-linkedIn"
+      url: "https://www.linkedin.com/in/robertsamuelfoster/"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/sam.foster.686440"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/RSFoster91/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/rsfoster91/"
 
 # Site Footer
 footer:
