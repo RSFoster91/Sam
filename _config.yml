@@ -116,12 +116,13 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Saint Johns, Florida"
+  email            : r.samuel.foster@gmail.com 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "r.samuel.foster@gmail.com"
+ #   - label: "Email"
+ #     icon: "fas fa-fw fa-envelope-square"
+ #     url: "r.samuel.foster@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-square-linkedIn"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/robertsamuelfoster/"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
