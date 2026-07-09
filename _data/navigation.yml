@@ -4,8 +4,8 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Vinyl Vault"
      url: https://rsfoster91.github.io/vinyl-vault/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "Choose For Me"
+     url: https://rsfoster91.github.io/Choose-For-Me/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
