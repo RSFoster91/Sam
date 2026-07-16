@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "R. Samuel Foster"
   avatar           : "assets/images/new sam.png"
-  bio              : "I am an **amazing** person."
+  bio              : "Dad. Michigan to Florida. Dabbling Bassist."
   location         : "Saint Johns, Florida"
   email            : r.samuel.foster@gmail.com 
   links:
@@ -140,26 +140,16 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url:
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/RSFoster91/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2026"
 
 
 # Reading Files
